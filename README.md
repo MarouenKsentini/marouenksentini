@@ -1,6 +1,6 @@
 # Hi, I'm Marouen 👋
 
-<img src="https://github.com/marouenksentini.png" width="150" height="150" style="border-radius:50%" alt="Marouen Ksentini" />
+
 
 A software developer who enjoys building things across the stack — from backend services to data-driven applications — and picking up new tools along the way.
 
