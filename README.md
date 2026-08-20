@@ -4,8 +4,8 @@
 
 
 <p align="left">
-  <a href="https://twitter.com/MarouenKsentini" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/twitter/follow/MarouenKsentini?logo=twitter&style=for-the-badge" alt="MarouenKsentini" />
+  <a href="https://x.com/MarouenKsentini" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/twitter/follow/MarouenKsentini?logo=x&style=for-the-badge" alt="MarouenKsentini" />
   </a>
 </p>
 
