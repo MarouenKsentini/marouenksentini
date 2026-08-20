@@ -2,11 +2,12 @@
 
 ### Full-Stack & AI/ML Developer | Master's Student in Information Systems & Network Development
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarouenKsentini&label=Profile views&color=0e75b6&style=flat" alt="MarouenKsentini" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MarouenKsentini" alt="MarouenKsentini" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/MarouenKsentini" target="blank"><img src="https://img.shields.io/twitter/follow/MarouenKsentini?logo=twitter&style=for-the-badge" alt="MarouenKsentini" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/MarouenKsentini" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/twitter/follow/MarouenKsentini?logo=twitter&style=for-the-badge" alt="MarouenKsentini" />
+  </a>
+</p>
 
 - 🔭 I'm currently working on **Computer vision & sports analytics pipelines, agentic AI workflows, and microservice architectures**
 
